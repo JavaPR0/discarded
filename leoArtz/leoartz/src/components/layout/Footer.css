@@ -1,0 +1,14 @@
+.footer{
+height: 15%;
+background-color: rgb(50, 21, 21);
+color: aliceblue;
+display: flex;
+}
+
+.list {
+    display: left;
+    list-style: none;
+    justify-content: space-between;
+
+}
+

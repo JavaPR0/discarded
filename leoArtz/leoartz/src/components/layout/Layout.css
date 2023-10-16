@@ -1,0 +1,25 @@
+.layout-container {
+    background-color: antiquewhite;
+}
+
+.layout-container .main {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+.layout-container .main .left-sidebar {
+    background-color: aqua;
+    width: 15%;
+}
+
+.layout-container .main .main-container {
+    width: 68%;
+    background-color: azure;
+}
+
+.layout-container .main .right-sidebar {
+    width: 15%;
+    background-color: blueviolet;
+   
+
+}

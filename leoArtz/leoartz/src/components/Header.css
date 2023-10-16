@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: rgb(231, 107, 227);
+    color: white;
+}
+
+.header ul {
+    display: flex;
+}
+
+.header ul li {
+    margin: 5px 10px;
+    list-style: none;
+}
+.logo {
+    background-image: url(../img/artzlogo.jpg);
+    
+}
